@@ -8,10 +8,10 @@ An interactive Streamlit dashboard designed to analyze and predict the financial
 
 | Dashboard Overview | 
 |--------------------|
-| ![Dashboard](assets/dashboard1.png) |
-| ![Dashboard](assets/dashboard2.png) |
-| ![Dashboard](assets/dashboard3.png) |
-| ![Dashboard](assets/dashboard4.png) |
+| ![Dashboard](dashboard1.png) |
+| ![Dashboard](dashboard2.png) |
+| ![Dashboard](dashboard3.png) |
+| ![Dashboard](dashboard4.png) |
 
 ---
 
